@@ -1,4 +1,4 @@
-# AiSISIt
+# AiSISt
 
 <h2>Step 1:</h2>
 <br>
@@ -8,6 +8,5 @@
 <br>
 <p>Install the various dependencies</p>
 <p>cd to the file and do</p>
-```
-  npm init -y
+```npm init -y
 ```

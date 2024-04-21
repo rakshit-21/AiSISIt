@@ -8,5 +8,6 @@
 <br>
 <p>Install the various dependencies</p>
 <p>cd to the file and do</p>
-```npm init -y
+``` sh
+  npm init -y
 ```
